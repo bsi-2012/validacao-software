@@ -1,4 +1,0 @@
-nometemporario
-==============
-
-Nome Temporario
